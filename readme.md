@@ -1,6 +1,6 @@
 # github-user-activity
 
-project url: https://github.com/rjfuhrman42/github-user-activity-cli
+project url: https://roadmap.sh/projects/github-user-activity
 
 ## How to run
 
