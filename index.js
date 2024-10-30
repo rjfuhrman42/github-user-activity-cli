@@ -21,7 +21,6 @@ const { error } = require("node:console");
           break;
         case "IssuesEvent":
           console.log(`❌ Created a new issue in ${event.repo.name}`);
-          // Expected output: "Mangoes and papayas are $2.79 a pound."
           break;
         case "CreateEvent":
           console.log(
