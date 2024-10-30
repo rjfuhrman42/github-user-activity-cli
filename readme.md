@@ -1,5 +1,7 @@
 # github-user-activity
 
+project url: https://github.com/rjfuhrman42/github-user-activity-cli
+
 ## How to run
 
 Clone the repository and run the following command:
